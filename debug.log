@@ -1,0 +1,767 @@
+Command: C:^\xampp^\htdocs^\PlantReco/venv/Scripts/python.exe C:^\xampp^\htdocs^\PlantReco/python/predict.py ^"C:^\xampp^\htdocs^\PlantReco/upload/download.jpg^" 2^>^&1
+Output: 
+Command: ^"C:^\xampp^\htdocs^\PlantReco/venv/Scripts/python.exe^" ^"C:^\xampp^\htdocs^\PlantReco/python/predict.py^" ^"C:^\xampp^\htdocs^\PlantReco/upload/68263db5c830c_download.jpg^" 2^>^&1
+Output: 
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\68264a1227751_download.jpg" 2>&1
+Output: 2025-05-16 01:09:55.410459: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:09:59.139249: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+{"error": "Unable to synchronously open file (file signature not found)"}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\68264f6761176_download.jpg" 2>&1
+Output: 2025-05-16 01:32:40.642494: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:32:44.447391: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:32:51.969357: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"scientific_name": "Snake", "confidence": 0.3183550536632538}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\68264faf99a6e_download.jpg" 2>&1
+Output: 2025-05-16 01:33:51.985472: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:33:54.046478: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:33:58.593170: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"scientific_name": "Snake", "confidence": 0.3183550536632538}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\68264fcb8cb8c_download.jpg" 2>&1
+Output: 2025-05-16 01:34:19.908709: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:34:21.951783: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:34:26.648789: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"scientific_name": "Snake", "confidence": 0.3183550536632538}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682652a1910f8_download.jpg" 2>&1
+Output: 2025-05-16 01:46:25.905710: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:46:28.124803: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:46:33.380663: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"scientific_name": "Snake", "confidence": 0.40151846408843994}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682652c64eed2_download.jpg" 2>&1
+Output: 2025-05-16 01:47:02.649065: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:47:05.012710: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:47:10.115939: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"scientific_name": "Snake", "confidence": 0.40151846408843994}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682653036af45_download.jpg" 2>&1
+Output: 2025-05-16 01:48:03.778137: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:48:06.100642: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:48:11.823317: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"scientific_name": "Snake", "confidence": 0.40151846408843994}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682653424fc42_download.jpg" 2>&1
+Output: 2025-05-16 01:49:06.644134: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:49:08.926354: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:49:14.021778: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"scientific_name": "Snake", "confidence": 0.40151846408843994}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682653c42b8e3_download.jpg" 2>&1
+Output: 2025-05-16 01:51:16.536598: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:51:18.887200: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:51:24.100447: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"scientific_name": "Snake", "confidence": 0.40151846408843994}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6826547ebcda7_download.jpg" 2>&1
+Output: 2025-05-16 01:54:23.240929: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:54:25.414572: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:54:31.846107: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"scientific_name": "Snake", "confidence": 0.40151846408843994}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682654ba743fd_download (1).jpg" 2>&1
+Output: 2025-05-16 01:55:24.174095: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:55:28.048127: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:55:36.086987: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"scientific_name": "Snake", "confidence": 0.36383387446403503}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682654dd4f932_download (1).jpg" 2>&1
+Output: 2025-05-16 01:55:57.738768: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:56:00.246320: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:56:05.888819: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"scientific_name": "Snake", "confidence": 0.36383387446403503}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682654ff95986_download (1).jpg" 2>&1
+Output: 2025-05-16 01:56:32.141604: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:56:34.746004: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-16 01:56:39.826833: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"scientific_name": "Snake", "confidence": 0.36383387446403503}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682dcb74adb58_download.jpg" 2>&1
+Output: 2025-05-21 17:47:49.134837: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-21 17:47:51.616386: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-21 17:47:59.084329: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"scientific_name": "Jasmine", "confidence": 0.2515626549720764}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682e17c317d7f_download.jpg" 2>&1
+Output: 2025-05-21 23:13:24.599128: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-21 23:13:28.618235: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-21 23:13:37.122046: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"scientific_name": "Jasmine", "confidence": 0.2515626549720764}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682e217b74c39_download.jpg" 2>&1
+Output: 2025-05-21 23:54:51.816943: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-21 23:54:54.163519: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-21 23:54:59.404154: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"scientific_name": "Jasmine", "confidence": 0.2515626549720764}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682e28615a0bb_IMG-20250510-WA0082.jpg" 2>&1
+Output: 2025-05-22 00:24:17.718250: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 00:24:20.170880: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 00:24:25.813244: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"scientific_name": "Snake", "confidence": 0.35273319482803345}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682f316c99f56_IMG-20250510-WA0010.jpg" 2>&1
+Output: 2025-05-22 19:15:09.912315: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:15:14.153733: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:15:26.135143: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"scientific_name": "Money", "confidence": 0.7815970182418823}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682f32fd314f4_IMG-20250510-WA0015.jpg" 2>&1
+Output: 2025-05-22 19:21:49.684911: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:21:54.303861: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:22:04.068648: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"scientific_name": "Rose", "confidence": 0.6317148208618164}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682f33171b656_IMG-20250510-WA0014.jpg" 2>&1
+Output: 2025-05-22 19:22:15.753006: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:22:18.912571: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:22:25.843213: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"scientific_name": "Money", "confidence": 0.42684435844421387}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682f331f51213_IMG-20250510-WA0014.jpg" 2>&1
+Output: 2025-05-22 19:22:23.857979: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:22:27.649905: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:22:37.476057: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"scientific_name": "Money", "confidence": 0.42684435844421387}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682f33267e821_IMG-20250510-WA0014.jpg" 2>&1
+Output: 2025-05-22 19:22:31.099470: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:22:36.410813: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:22:45.495572: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"scientific_name": "Money", "confidence": 0.42684435844421387}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682f3418b3361_IMG-20250510-WA0010.jpg" 2>&1
+Output: 2025-05-22 19:26:33.444694: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:26:36.254922: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:26:42.928262: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"scientific_name": "Money", "confidence": 0.7815970182418823}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682f3432075cd_102501987_3cdb8e5394_n.jpg" 2>&1
+Output: 2025-05-22 19:26:58.511526: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:27:00.962038: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:27:06.667936: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"scientific_name": "Tulsi", "confidence": 0.5161687731742859}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682f344858cc1_110472418_87b6a3aa98_m.jpg" 2>&1
+Output: 2025-05-22 19:27:20.794472: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:27:23.881524: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:27:29.830638: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"scientific_name": "Sunflower", "confidence": 0.3863937258720398}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682f357d64518_2141413229_3f0425f972_n.jpg" 2>&1
+Output: 2025-05-22 19:32:30.853858: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:32:35.993410: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:32:46.735032: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"common_name": "Money", "confidence": 0.5030344724655151}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682f3660c2624_151898652_b5f1c70b98_n.jpg" 2>&1
+Output: 2025-05-22 19:36:18.644002: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:36:23.966426: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:36:37.519067: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"common_name": "Rose", "confidence": 0.5320383310317993}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682f36e722e4d_4623843480_23e3fb8dcc_n.jpg" 2>&1
+Output: 2025-05-22 19:38:31.767830: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:38:34.043303: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:38:42.017939: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"common_name": "Tulsi", "confidence": 0.24011050164699554}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682f37198e515_download.jpg" 2>&1
+Output: 2025-05-22 19:39:22.120791: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:39:24.532887: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:39:29.827219: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"common_name": "Rose", "confidence": 0.5489757061004639}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682f3785ce7b5_pexels-pixabay-53141.jpg" 2>&1
+Output: 2025-05-22 19:41:10.311608: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:41:13.014087: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:41:18.767245: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"common_name": "Rose", "confidence": 0.38243159651756287}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682f37ca2284c_neem-leaves-651913_1280.jpg" 2>&1
+Output: 2025-05-22 19:42:18.596988: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:42:21.190813: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:42:26.872224: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"common_name": "Rose", "confidence": 0.5422178506851196}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682f37f29167a_102501987_3cdb8e5394_n.jpg" 2>&1
+Output: 2025-05-22 19:42:59.056321: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:43:01.492889: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:43:08.642040: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"common_name": "Tulsi", "confidence": 0.5161687731742859}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\682f386368c2d_10010.jpg" 2>&1
+Output: 2025-05-22 19:44:52.320586: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:44:56.130947: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-22 19:45:06.572864: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+{"common_name": "Tulsi", "confidence": 0.5726825594902039}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831ab5b42d46_pexels-pixabay-53141.jpg" 2>&1
+Output: 2025-05-24 16:19:56.539037: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:20:00.584839: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:20:08.991312: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.9484120607376099, "top_3": [{"common_name": "Tulsi", "confidence": 0.9484120607376099}, {"common_name": "Sunflower", "confidence": 0.04380073398351669}, {"common_name": "Jasmine", "confidence": 0.004104532767087221}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831ae9f1ae7c_sun.jpg" 2>&1
+Output: 2025-05-24 16:33:51.451625: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:33:53.704451: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:33:58.941558: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.9616826772689819, "top_3": [{"common_name": "Sunflower", "confidence": 0.9616826772689819}, {"common_name": "Tulsi", "confidence": 0.01640218310058117}, {"common_name": "Jasmine", "confidence": 0.006879944354295731}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831aed67347e_10001 (1).jpg" 2>&1
+Output: 2025-05-24 16:34:46.814747: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:34:48.976511: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:34:54.080140: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.9726651906967163, "top_3": [{"common_name": "Sunflower", "confidence": 0.9726651906967163}, {"common_name": "Tulsi", "confidence": 0.02292132005095482}, {"common_name": "Neem", "confidence": 0.0020079689566046}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b07e630cf_sun.jpg" 2>&1
+Output: 2025-05-24 16:41:50.732396: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:41:52.772644: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:41:57.311932: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.9616826772689819, "top_3": [{"common_name": "Sunflower", "confidence": 0.9616826772689819}, {"common_name": "Tulsi", "confidence": 0.01640218310058117}, {"common_name": "Jasmine", "confidence": 0.006879944354295731}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b1d311bcb_10001.jpg" 2>&1
+Output: 2025-05-24 16:47:31.646537: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:47:35.125012: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:47:42.114755: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.6790422201156616, "top_3": [{"common_name": "Sunflower", "confidence": 0.6790422201156616}, {"common_name": "Tulsi", "confidence": 0.2525988817214966}, {"common_name": "Jasmine", "confidence": 0.04371391981840134}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b278aa64b_10005 f.jpg" 2>&1
+Output: 2025-05-24 16:50:17.497106: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:50:20.997777: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:50:32.388018: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.6943572759628296, "top_3": [{"common_name": "Tulsi", "confidence": 0.6943572759628296}, {"common_name": "Sunflower", "confidence": 0.24224664270877838}, {"common_name": "Jasmine", "confidence": 0.032399412244558334}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b2afcd2f9_10007 f.jpg" 2>&1
+Output: 2025-05-24 16:51:12.679628: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:51:17.134117: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:51:29.956705: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.5172372460365295, "top_3": [{"common_name": "Tulsi", "confidence": 0.5172372460365295}, {"common_name": "Sunflower", "confidence": 0.4333306550979614}, {"common_name": "Jasmine", "confidence": 0.03749442845582962}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b2d3e5817_10007 f.jpg" 2>&1
+Output: 2025-05-24 16:51:48.328095: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:51:51.080702: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:51:56.909440: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.5172372460365295, "top_3": [{"common_name": "Tulsi", "confidence": 0.5172372460365295}, {"common_name": "Sunflower", "confidence": 0.4333306550979614}, {"common_name": "Jasmine", "confidence": 0.03749442845582962}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b2ffdb113_10015.jpg" 2>&1
+Output: 2025-05-24 16:52:32.316521: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:52:34.836622: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:52:40.677862: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.6919310092926025, "top_3": [{"common_name": "Sunflower", "confidence": 0.6919310092926025}, {"common_name": "Tulsi", "confidence": 0.17885476350784302}, {"common_name": "Neem", "confidence": 0.05410192906856537}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b3653b2fe_10002.jpg" 2>&1
+Output: 2025-05-24 16:54:13.835805: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:54:16.211413: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:54:22.610886: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.48401695489883423, "top_3": [{"common_name": "Tulsi", "confidence": 0.48401695489883423}, {"common_name": "Sunflower", "confidence": 0.39733240008354187}, {"common_name": "Jasmine", "confidence": 0.06271994858980179}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b3fab2696_10016.jpg" 2>&1
+Output: 2025-05-24 16:56:43.182965: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:56:45.455639: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:56:50.844883: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.49776366353034973, "top_3": [{"common_name": "Sunflower", "confidence": 0.49776366353034973}, {"common_name": "Tulsi", "confidence": 0.3604978322982788}, {"common_name": "Money", "confidence": 0.046118129044771194}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b421600e5_10018 f.jpg" 2>&1
+Output: 2025-05-24 16:57:22.049473: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:57:24.229391: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:57:30.167665: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.5495905876159668, "top_3": [{"common_name": "Tulsi", "confidence": 0.5495905876159668}, {"common_name": "Sunflower", "confidence": 0.4151011109352112}, {"common_name": "Jasmine", "confidence": 0.014741767197847366}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b45c6b543_10041.jpg" 2>&1
+Output: 2025-05-24 16:58:21.159893: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:58:23.337965: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:58:28.373785: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.964374303817749, "top_3": [{"common_name": "Tulsi", "confidence": 0.964374303817749}, {"common_name": "Sunflower", "confidence": 0.025318674743175507}, {"common_name": "Jasmine", "confidence": 0.004619468003511429}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b489d8352_10012 f.jpg" 2>&1
+Output: 2025-05-24 16:59:06.362872: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:59:08.572393: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 16:59:13.931351: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.9541329145431519, "top_3": [{"common_name": "Sunflower", "confidence": 0.9541329145431519}, {"common_name": "Tulsi", "confidence": 0.04404589161276817}, {"common_name": "Jasmine", "confidence": 0.000908452901057899}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b4bf0d3f7_568715474_bdb64ccc32.jpg" 2>&1
+Output: 2025-05-24 16:59:59.856367: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:00:02.609385: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:00:09.089978: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.9929236173629761, "top_3": [{"common_name": "Tulsi", "confidence": 0.9929236173629761}, {"common_name": "Sunflower", "confidence": 0.00562041811645031}, {"common_name": "Neem", "confidence": 0.0006786775775253773}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b4eb7c261_14810868100_87eb739f26_m.jpg" 2>&1
+Output: 2025-05-24 17:00:43.891839: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:00:46.144068: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:00:51.379407: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.9864104390144348, "top_3": [{"common_name": "Tulsi", "confidence": 0.9864104390144348}, {"common_name": "Sunflower", "confidence": 0.011146125383675098}, {"common_name": "Jasmine", "confidence": 0.0010984495747834444}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b51b892d1_download (2).jpg" 2>&1
+Output: 2025-05-24 17:01:32.134873: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:01:34.959561: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:01:41.180387: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.9453334212303162, "top_3": [{"common_name": "Tulsi", "confidence": 0.9453334212303162}, {"common_name": "Sunflower", "confidence": 0.05206909030675888}, {"common_name": "Jasmine", "confidence": 0.0012278716312721372}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b55e651b7_7285188160_49d84b95a3_m.jpg" 2>&1
+Output: 2025-05-24 17:02:38.981203: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:02:41.697909: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:02:47.411334: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.4998689591884613, "top_3": [{"common_name": "Tulsi", "confidence": 0.4998689591884613}, {"common_name": "Sunflower", "confidence": 0.420962929725647}, {"common_name": "Jasmine", "confidence": 0.030928080901503563}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b5835adca_298670754_f25edda891.jpg" 2>&1
+Output: 2025-05-24 17:03:15.939947: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:03:18.137438: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:03:25.551516: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.9792758226394653, "top_3": [{"common_name": "Tulsi", "confidence": 0.9792758226394653}, {"common_name": "Sunflower", "confidence": 0.015880707651376724}, {"common_name": "Rose", "confidence": 0.0024672613944858313}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b5fb725c7_483444865_65962cea07_m.jpg" 2>&1
+Output: 2025-05-24 17:05:16.047529: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:05:18.538635: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:05:25.356074: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.8977631330490112, "top_3": [{"common_name": "Tulsi", "confidence": 0.8977631330490112}, {"common_name": "Sunflower", "confidence": 0.06707710027694702}, {"common_name": "Rose", "confidence": 0.010875699110329151}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b66a80e4b_5487945052_bcb8e9fc8b_m.jpg" 2>&1
+Output: 2025-05-24 17:07:06.834236: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:07:09.784344: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:07:15.906123: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.8543522357940674, "top_3": [{"common_name": "Tulsi", "confidence": 0.8543522357940674}, {"common_name": "Sunflower", "confidence": 0.08513700217008591}, {"common_name": "Rose", "confidence": 0.026369549334049225}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b6adc3be1_9.jpg" 2>&1
+Output: 2025-05-24 17:08:14.708877: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:08:16.829345: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:08:23.375054: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.9204251170158386, "top_3": [{"common_name": "Tulsi", "confidence": 0.9204251170158386}, {"common_name": "Sunflower", "confidence": 0.07488080859184265}, {"common_name": "Jasmine", "confidence": 0.0025286837480962276}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b6e2a6ac7_2.jpg" 2>&1
+Output: 2025-05-24 17:09:07.017154: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:09:09.173139: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:09:14.138081: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.5132001042366028, "top_3": [{"common_name": "Sunflower", "confidence": 0.5132001042366028}, {"common_name": "Tulsi", "confidence": 0.4699038863182068}, {"common_name": "Neem", "confidence": 0.0051651340909302235}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b70c9a517_healthy_1_9722.jpeg" 2>&1
+Output: 2025-05-24 17:09:48.964098: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:09:51.074704: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:09:55.580058: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.994897186756134, "top_3": [{"common_name": "Tulsi", "confidence": 0.994897186756134}, {"common_name": "Neem", "confidence": 0.0013290710048750043}, {"common_name": "Rose", "confidence": 0.0012160202022641897}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b730b406e_healthy_0_2316.jpeg" 2>&1
+Output: 2025-05-24 17:10:25.058401: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:10:26.903005: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:10:31.263573: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.9780179858207703, "top_3": [{"common_name": "Tulsi", "confidence": 0.9780179858207703}, {"common_name": "Sunflower", "confidence": 0.006110761780291796}, {"common_name": "Neem", "confidence": 0.0055350689217448235}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b754759d9_16.jpg" 2>&1
+Output: 2025-05-24 17:11:00.816338: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:11:02.675760: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:11:06.823467: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.9954022169113159, "top_3": [{"common_name": "Tulsi", "confidence": 0.9954022169113159}, {"common_name": "Sunflower", "confidence": 0.0019317023688927293}, {"common_name": "Rose", "confidence": 0.000910392904188484}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b77786862_138.jpg" 2>&1
+Output: 2025-05-24 17:11:35.876494: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:11:37.794062: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:11:42.092979: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.9941149353981018, "top_3": [{"common_name": "Tulsi", "confidence": 0.9941149353981018}, {"common_name": "Sunflower", "confidence": 0.00284171337261796}, {"common_name": "Jasmine", "confidence": 0.0014209570363163948}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b799ebd55_4998.jpg" 2>&1
+Output: 2025-05-24 17:12:10.343600: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:12:12.724495: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:12:17.147658: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.9925353527069092, "top_3": [{"common_name": "Tulsi", "confidence": 0.9925353527069092}, {"common_name": "Sunflower", "confidence": 0.005000723991543055}, {"common_name": "Rose", "confidence": 0.0012606041273102164}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b7bebaf7b_13.jpg" 2>&1
+Output: 2025-05-24 17:12:47.119130: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:12:49.022744: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:12:53.274807: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.9988254904747009, "top_3": [{"common_name": "Sunflower", "confidence": 0.9988254904747009}, {"common_name": "Tulsi", "confidence": 0.0005129077471792698}, {"common_name": "Jasmine", "confidence": 0.00025306324823759496}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b7e9f0ad1_164.jpg" 2>&1
+Output: 2025-05-24 17:13:30.293730: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:13:32.214666: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:13:36.744513: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.9672564268112183, "top_3": [{"common_name": "Tulsi", "confidence": 0.9672564268112183}, {"common_name": "Sunflower", "confidence": 0.023659462109208107}, {"common_name": "Jasmine", "confidence": 0.004293639678508043}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b8a8a2623_35.jpg" 2>&1
+Output: 2025-05-24 17:16:41.094779: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:16:43.337600: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:16:48.262467: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.6779365539550781, "top_3": [{"common_name": "Sunflower", "confidence": 0.6779365539550781}, {"common_name": "Tulsi", "confidence": 0.26669108867645264}, {"common_name": "Jasmine", "confidence": 0.03359514847397804}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831b8d11ba51_74.jpg" 2>&1
+Output: 2025-05-24 17:17:21.501751: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:17:23.636429: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 17:17:28.287554: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.5589403510093689, "top_3": [{"common_name": "Tulsi", "confidence": 0.5589403510093689}, {"common_name": "Sunflower", "confidence": 0.3673020601272583}, {"common_name": "Jasmine", "confidence": 0.03204409405589104}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831db23d34cf_134.jpg" 2>&1
+Output: 2025-05-24 19:43:48.697203: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 19:43:51.939975: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 19:44:03.738327: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.6194196343421936, "top_3": [{"common_name": "Tulsi", "confidence": 0.6194196343421936}, {"common_name": "Sunflower", "confidence": 0.33077874779701233}, {"common_name": "Neem", "confidence": 0.029986867681145668}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831db6399b88_6.jpg" 2>&1
+Output: 2025-05-24 19:44:51.995818: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 19:44:54.011151: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 19:44:58.584891: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.9988038539886475, "top_3": [{"common_name": "Tulsi", "confidence": 0.9988038539886475}, {"common_name": "Rose", "confidence": 0.00039299001218751073}, {"common_name": "Neem", "confidence": 0.0003097815497312695}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831dbbbbbfdf_healthy_6_4441.jpeg" 2>&1
+Output: 2025-05-24 19:46:21.557435: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 19:46:24.874101: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 19:46:29.565884: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.9993613362312317, "top_3": [{"common_name": "Tulsi", "confidence": 0.9993613362312317}, {"common_name": "Sunflower", "confidence": 0.00036106229526922107}, {"common_name": "Jasmine", "confidence": 0.00011578694102354348}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831dc6a37b32_13.jpg" 2>&1
+Output: 2025-05-24 19:49:18.052221: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 19:49:21.693843: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 19:49:29.938755: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.9988254904747009, "top_3": [{"common_name": "Sunflower", "confidence": 0.9988254904747009}, {"common_name": "Tulsi", "confidence": 0.0005129077471792698}, {"common_name": "Jasmine", "confidence": 0.00025306324823759496}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6831dcb994135_305.jpg" 2>&1
+Output: 2025-05-24 19:50:34.023001: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 19:50:36.411912: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 19:50:42.048447: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.7027205228805542, "top_3": [{"common_name": "Tulsi", "confidence": 0.7027205228805542}, {"common_name": "Sunflower", "confidence": 0.2364395409822464}, {"common_name": "Jasmine", "confidence": 0.028145423159003258}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\683219cc6c863_download (2).jpg" 2>&1
+Output: 2025-05-25 00:11:10.013154: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-25 00:11:15.772511: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-25 00:11:32.147715: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Rose", "confidence": 0.7915489077568054, "top_3": [{"common_name": "Rose", "confidence": 0.7915489077568054}, {"common_name": "Money", "confidence": 0.13888348639011383}, {"common_name": "Sunflower", "confidence": 0.0483291931450367}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\683219f954a5d_download (2).jpg" 2>&1
+Output: 2025-05-25 00:11:53.691848: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-25 00:11:55.714868: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-25 00:12:00.438989: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Rose", "confidence": 0.7915489077568054, "top_3": [{"common_name": "Rose", "confidence": 0.7915489077568054}, {"common_name": "Money", "confidence": 0.13888348639011383}, {"common_name": "Sunflower", "confidence": 0.0483291931450367}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\68321a1f074c1_neem-leaves-651913_1280.jpg" 2>&1
+Output: 2025-05-25 00:12:31.398678: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-25 00:12:33.508322: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-25 00:12:38.029605: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Neem", "confidence": 0.7396714091300964, "top_3": [{"common_name": "Neem", "confidence": 0.7396714091300964}, {"common_name": "Sunflower", "confidence": 0.12556928396224976}, {"common_name": "Tulsi", "confidence": 0.09160173684358597}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\68321a4dc6734_10005 f.jpg" 2>&1
+Output: 2025-05-25 00:13:18.129128: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-25 00:13:20.134047: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-25 00:13:24.828016: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Jasmine", "confidence": 0.999962568283081, "top_3": [{"common_name": "Jasmine", "confidence": 0.999962568283081}, {"common_name": "Sunflower", "confidence": 1.5301948224077933e-05}, {"common_name": "Neem", "confidence": 1.1260989595029969e-05}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\68321aba5454c_44079668_34dfee3da1_n.jpg" 2>&1
+Output: 2025-05-25 00:15:06.702740: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-25 00:15:08.670865: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-25 00:15:13.298176: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.9996919631958008, "top_3": [{"common_name": "Sunflower", "confidence": 0.9996919631958008}, {"common_name": "Jasmine", "confidence": 0.00010722243314376101}, {"common_name": "Rose", "confidence": 7.562041719211265e-05}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\68321af771830_Healthy_disease_downscaled_original_20230506_123549.jpg_1d0ac4b8-d149-415f-ad0b-b91be65c78ee.jpg" 2>&1
+Output: 2025-05-25 00:16:07.788851: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-25 00:16:09.732635: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-25 00:16:14.417620: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Money", "confidence": 0.999947190284729, "top_3": [{"common_name": "Money", "confidence": 0.999947190284729}, {"common_name": "Rose", "confidence": 2.4287593987537548e-05}, {"common_name": "Sunflower", "confidence": 1.4985173038439825e-05}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\68321b23ae160_download (2).jpg" 2>&1
+Output: 2025-05-25 00:16:52.035804: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-25 00:16:53.988431: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-25 00:16:58.493713: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Rose", "confidence": 0.7915489077568054, "top_3": [{"common_name": "Rose", "confidence": 0.7915489077568054}, {"common_name": "Money", "confidence": 0.13888348639011383}, {"common_name": "Sunflower", "confidence": 0.0483291931450367}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6835375b05ecb_44079668_34dfee3da1_n.jpg" 2>&1
+Output: 2025-05-27 08:54:04.328939: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-27 08:54:07.707778: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-27 08:54:16.232040: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.9996919631958008, "top_3": [{"common_name": "Sunflower", "confidence": 0.9996919631958008}, {"common_name": "Jasmine", "confidence": 0.00010722243314376101}, {"common_name": "Rose", "confidence": 7.562041719211265e-05}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6835385b0e266_neem-leaves-651913_1280.jpg" 2>&1
+Output: 2025-05-27 08:58:19.857121: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-27 08:58:22.853400: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-27 08:58:30.864827: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Neem", "confidence": 0.7396714091300964, "top_3": [{"common_name": "Neem", "confidence": 0.7396714091300964}, {"common_name": "Sunflower", "confidence": 0.12556928396224976}, {"common_name": "Tulsi", "confidence": 0.09160173684358597}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6836077e883f6_download (2).jpg" 2>&1
+Output: 2025-05-27 23:42:06.939446: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-27 23:42:09.084247: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-27 23:42:14.130206: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Rose", "confidence": 0.7915489077568054, "top_3": [{"common_name": "Rose", "confidence": 0.7915489077568054}, {"common_name": "Money", "confidence": 0.13888348639011383}, {"common_name": "Sunflower", "confidence": 0.0483291931450367}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\683607f7a43f2_download (3).jpg" 2>&1
+Output: 2025-05-27 23:44:08.313105: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-27 23:44:11.836629: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-27 23:44:19.895814: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Money", "confidence": 0.7362167835235596, "top_3": [{"common_name": "Money", "confidence": 0.7362167835235596}, {"common_name": "Rose", "confidence": 0.21277187764644623}, {"common_name": "Sunflower", "confidence": 0.04157407581806183}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\683608323ad4f_download (3).jpg" 2>&1
+Output: 2025-05-27 23:45:06.608284: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-27 23:45:08.959474: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-27 23:45:14.161096: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Money", "confidence": 0.7362167835235596, "top_3": [{"common_name": "Money", "confidence": 0.7362167835235596}, {"common_name": "Rose", "confidence": 0.21277187764644623}, {"common_name": "Sunflower", "confidence": 0.04157407581806183}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6836085749388_download (4).jpg" 2>&1
+Output: 2025-05-27 23:45:43.705527: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-27 23:45:45.783316: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-27 23:45:50.571658: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Rose", "confidence": 0.5949981212615967, "top_3": [{"common_name": "Rose", "confidence": 0.5949981212615967}, {"common_name": "Sunflower", "confidence": 0.2753599286079407}, {"common_name": "Money", "confidence": 0.10014379769563675}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\683608c6578a4_download (5).jpg" 2>&1
+Output: 2025-05-27 23:47:35.111836: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-27 23:47:38.070257: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-27 23:47:46.164582: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Jasmine", "confidence": 0.9683056473731995, "top_3": [{"common_name": "Jasmine", "confidence": 0.9683056473731995}, {"common_name": "Tulsi", "confidence": 0.023084690794348717}, {"common_name": "Sunflower", "confidence": 0.003643887583166361}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\683608f996a97_download (6).jpg" 2>&1
+Output: 2025-05-27 23:48:25.944126: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-27 23:48:27.953519: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-27 23:48:32.600343: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.9171648621559143, "top_3": [{"common_name": "Tulsi", "confidence": 0.9171648621559143}, {"common_name": "Jasmine", "confidence": 0.03985631465911865}, {"common_name": "Sunflower", "confidence": 0.02577132359147072}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6837542477dd9_download.jpg" 2>&1
+Output: 2025-05-28 23:21:24.798897: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-28 23:21:26.990106: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-28 23:21:32.282561: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.728263258934021, "top_3": [{"common_name": "Tulsi", "confidence": 0.728263258934021}, {"common_name": "Money", "confidence": 0.11123517155647278}, {"common_name": "Jasmine", "confidence": 0.0760875716805458}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6837545a57bc5_download (1).jpg" 2>&1
+Output: 2025-05-28 23:22:18.987764: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-28 23:22:21.755521: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-28 23:22:27.327779: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Tulsi", "confidence": 0.8923637866973877, "top_3": [{"common_name": "Tulsi", "confidence": 0.8923637866973877}, {"common_name": "Money", "confidence": 0.050735171884298325}, {"common_name": "Sunflower", "confidence": 0.048999037593603134}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\68375514e07ff_download (2).jpg" 2>&1
+Output: 2025-05-28 23:25:25.261509: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-28 23:25:27.552476: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-28 23:25:32.691082: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Neem", "confidence": 0.43067169189453125, "top_3": [{"common_name": "Neem", "confidence": 0.43067169189453125}, {"common_name": "Money", "confidence": 0.21972931921482086}, {"common_name": "Jasmine", "confidence": 0.21914106607437134}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\68375546bddf0_download (3).jpg" 2>&1
+Output: 2025-05-28 23:26:18.825361: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-28 23:26:22.675753: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-28 23:26:31.246771: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Rose", "confidence": 0.5169305205345154, "top_3": [{"common_name": "Rose", "confidence": 0.5169305205345154}, {"common_name": "Sunflower", "confidence": 0.37659287452697754}, {"common_name": "Money", "confidence": 0.07080650329589844}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6867b7121a7f3_download.jpeg" 2>&1
+Output: No Python at '"C:\Users\ms traders\AppData\Local\Programs\Python\Python311\python.exe'
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6867bada589e8_download.jpeg" 2>&1
+Output: Traceback (most recent call last):
+  File "C:\xampp\htdocs\PlantReco\python\predict.py", line 4, in <module>
+    import tensorflow as tf
+ModuleNotFoundError: No module named 'tensorflow'
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6867bb058f9e2_download.jpeg" 2>&1
+Output: Traceback (most recent call last):
+  File "C:\xampp\htdocs\PlantReco\python\predict.py", line 4, in <module>
+    import tensorflow as tf
+ModuleNotFoundError: No module named 'tensorflow'
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6867c84a1b9ae_download.jpeg" 2>&1
+Output: 2025-07-04 17:25:46.829630: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-07-04 17:25:50.542955: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-07-04 17:25:56.210144: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"error": "Could not import PIL.Image. The use of `load_img` requires PIL."}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6867c88fe33d5_download.jpeg" 2>&1
+Output: 2025-07-04 17:26:56.618561: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-07-04 17:27:00.526425: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-07-04 17:27:05.996887: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.9999948740005493, "top_3": [{"common_name": "Sunflower", "confidence": 0.9999948740005493}, {"common_name": "Jasmine", "confidence": 4.340432951721596e-06}, {"common_name": "Tulsi", "confidence": 3.909553640824015e-07}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6867c8a1d2575_download.jpeg" 2>&1
+Output: 2025-07-04 17:27:14.509814: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-07-04 17:27:17.086861: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-07-04 17:27:22.315323: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.9999948740005493, "top_3": [{"common_name": "Sunflower", "confidence": 0.9999948740005493}, {"common_name": "Jasmine", "confidence": 4.340432951721596e-06}, {"common_name": "Tulsi", "confidence": 3.909553640824015e-07}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6867ce8128aa7_sunflower.jpeg" 2>&1
+Output: 2025-07-04 17:52:18.610562: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-07-04 17:52:23.692403: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-07-04 17:52:32.808433: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.999980092048645, "top_3": [{"common_name": "Sunflower", "confidence": 0.999980092048645}, {"common_name": "Jasmine", "confidence": 1.3056227544439025e-05}, {"common_name": "Rose", "confidence": 3.1618678804079536e-06}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6867cf6107d61_jasmine.jpeg" 2>&1
+Output: 2025-07-04 17:56:01.570217: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-07-04 17:56:04.590091: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-07-04 17:56:10.756390: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Jasmine", "confidence": 0.9998596906661987, "top_3": [{"common_name": "Jasmine", "confidence": 0.9998596906661987}, {"common_name": "Tulsi", "confidence": 9.290254820371047e-05}, {"common_name": "Sunflower", "confidence": 2.1666724933311343e-05}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6867d059b077c_sunflower.jpeg" 2>&1
+Output: 2025-07-04 18:00:10.585457: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-07-04 18:00:14.844124: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-07-04 18:00:23.643455: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Sunflower", "confidence": 0.999980092048645, "top_3": [{"common_name": "Sunflower", "confidence": 0.999980092048645}, {"common_name": "Jasmine", "confidence": 1.3056227544439025e-05}, {"common_name": "Rose", "confidence": 3.1618678804079536e-06}]}
+
+Command: "C:\xampp\htdocs\PlantReco\venv\Scripts\python.exe" "C:\xampp\htdocs\PlantReco\python\predict.py" "C:\xampp\htdocs\PlantReco\upload\6867d07c93bd3_jasmine.jpeg" 2>&1
+Output: 2025-07-04 18:00:45.435402: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-07-04 18:00:49.540475: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-07-04 18:00:57.565748: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+{"common_name": "Jasmine", "confidence": 0.9998596906661987, "top_3": [{"common_name": "Jasmine", "confidence": 0.9998596906661987}, {"common_name": "Tulsi", "confidence": 9.290254820371047e-05}, {"common_name": "Sunflower", "confidence": 2.1666724933311343e-05}]}
+
